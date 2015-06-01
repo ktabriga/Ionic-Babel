@@ -1,0 +1,700 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"gru",
+				"grupos"
+			],
+			[
+				"a",
+				"atualizador"
+			],
+			[
+				"prom",
+				"promessas"
+			],
+			[
+				"Ve",
+				"VERSAO"
+			],
+			[
+				"ini",
+				"inserirDados"
+			],
+			[
+				"pro",
+				"propriedade"
+			],
+			[
+				"o",
+				"Observable"
+			],
+			[
+				"se",
+				"servicoCupom"
+			],
+			[
+				"es",
+				"especialidadeImagens"
+			],
+			[
+				"c",
+				"cienciaTecnologia"
+			],
+			[
+				"s",
+				"style	Attr"
+			],
+			[
+				"ti",
+				"tipoDispositivo"
+			],
+			[
+				"cada",
+				"cadastro"
+			],
+			[
+				"di",
+				"display"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 81.0,
+		"last_filter": "instal",
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript Next"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"instalp",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Jhonatan/Projetos/grin/www/js/app.js",
+		"/C/Users/Jhonatan/Projetos/grin/www/js/all.js",
+		"/C/Users/Jhonatan/Projetos/grin/www/index.html",
+		"/C/Users/Jhonatan/Projetos/babelTestes/testes.js",
+		"/C/Users/Jhonatan/Projetos/startbootstrap-creative-1.0.1/index.html",
+		"/C/Users/Jhonatan/Projetos/bepace/ramo escoteiro/www/js/pouchdb/progressao.dados.js",
+		"/C/Users/Jhonatan/Projetos/bepace/ramo escoteiro/www/js/pouchdb/promessa.dados.js",
+		"/C/Users/Jhonatan/Projetos/bepace/ramo escoteiro/www/js/pouchdb/insigniaInteresseEspecial.dados.js",
+		"/C/Users/Jhonatan/Projetos/bepace/ramo escoteiro/www/js/pouchdb/especialidade.dados.js",
+		"/C/Users/Jhonatan/Projetos/bepace/ramo escoteiro/www/js/pouchdb/atualizador.js",
+		"/C/Users/Jhonatan/Projetos/bepace/ramo escoteiro/www/js/especialidade/observaveis/especialidade.observaveis.js",
+		"/C/Users/Jhonatan/Projetos/bepace/ramo escoteiro/www/js/progresso/progressao.servico.js",
+		"/C/Users/Jhonatan/Projetos/bepace/ramo escoteiro/www/js/promessa/promessa.servico.js",
+		"/C/Users/Jhonatan/Projetos/bepace/ramo escoteiro/www/index.html",
+		"/C/Users/Jhonatan/Projetos/bepace/ramo escoteiro/www/js/app.js",
+		"/C/Users/Jhonatan/Projetos/bepace/ramo escoteiro/www/js/pouchdb/bancoDadosLocal.js",
+		"/C/Users/Jhonatan/Projetos/bepace/ramo escoteiro/www/js/pouchdb/dados.modulo.js",
+		"/C/Users/Jhonatan/Projetos/bepace/ramo escoteiro/www/js/pouchdb/pouchdb.listener.js",
+		"/C/Users/Jhonatan/Projetos/bepace/desafio-senior/www/css/style.css",
+		"/C/Users/Jhonatan/Documents/sos-pet agenda/Dados acesso.txt",
+		"/C/Users/Jhonatan/Documents/sos-pet agenda/Bug Fix.txt",
+		"/C/Users/Jhonatan/Projetos/bepace/sos-animal-mobile/www/js/sincronia/cupom.sincronia.js",
+		"/C/Users/Jhonatan/Projetos/bepace/sos-animal-mobile/www/js/notificacao/notificacao.servico.js",
+		"/C/Users/Jhonatan/Projetos/bepace/sos-animal-mobile/www/js/suporte/sessao.servico.js",
+		"/C/Users/Jhonatan/Documents/Desafio Sênior/DesafioSenior.dados.txt",
+		"/C/Users/Jhonatan/Projetos/bepace/sos-animal-mobile/www/js/sincronia/sincronizador.js",
+		"/C/Users/Jhonatan/Projetos/bepace/sos-animal-mobile/www/js/cupom/cupom.servico.js",
+		"/C/Users/Jhonatan/Projetos/bepace/sos-animal-mobile/www/js/conta/login.servico.js",
+		"/C/Users/Jhonatan/Projetos/bepace/sos-animal-mobile/www/js/notificacao/notificacao.evento.js",
+		"/C/Users/Jhonatan/Projetos/bepace/sos-animal-mobile/www/js/aplicacao/inicializador.configuracao.js",
+		"/C/Users/Jhonatan/Projetos/bepace/sos-animal-mobile/www/js/aplicacao/aplicacao.controlador.js",
+		"/C/Users/Jhonatan/Projetos/bepace/sos-animal-mobile/www/js/cupom/cupons.controlador.js",
+		"/C/Users/Jhonatan/Projetos/bepace/sos-animal-mobile/www/js/conta/cadastro.servico.js",
+		"/C/Users/Jhonatan/Projetos/bepace/sos-animal-mobile/www/js/cupom/cupom.controlador.js",
+		"/C/Users/Jhonatan/Projetos/bepace/sos-animal-mobile/package.json",
+		"/C/Users/Jhonatan/Projetos/bepace/sos-animal-painel/Vagrantfile",
+		"/E/infra-dev/apache-tomcat-8.0.22/conf/context.xml",
+		"/C/Users/Jhonatan/Projetos/bepace/desafio-senior/www/templates/sobre.html",
+		"/C/Users/Jhonatan/Projetos/bepace/desafio-senior/plugins.info",
+		"/C/Users/Jhonatan/Projetos/bepace/desafio-senior/config.xml",
+		"/C/Users/Jhonatan/Projetos/bepace/desafio-senior/engine/cordova-crosswalk-engine-c0.7.1/plugin.xml",
+		"/C/Users/Jhonatan/Projetos/bepace/desafio-senior/package.json",
+		"/C/Users/Jhonatan/Projetos/bepace/desafio-senior/instalar-plugins.sh",
+		"/C/Users/Jhonatan/Projetos/bepace/desafio-senior/www/templates/especialidades/menu.html",
+		"/C/Users/Jhonatan/Projetos/bepace/desafio-senior/www/js/rotas.js",
+		"/C/Users/Jhonatan/Projetos/bepace/desafio-senior/www/js/especialidade/especialidade.imagens.js",
+		"/C/Users/Jhonatan/Projetos/bepace/desafio-senior/www/js/especialidade/especialidade.menu.controlador.js",
+		"/C/Users/Jhonatan/Projetos/bepace/desafio-senior/platforms/android/com.phonegap.plugins.facebookconnect/desafiosenior-FacebookLib/res/values/attrs.xml",
+		"/C/Users/Jhonatan/Projetos/bepace/desafio-senior/engine/cordova-crosswalk-engine-c0.7.1/libs/xwalk_core_library/res/values/attrs.xml",
+		"/C/Users/Jhonatan/Projetos/bepace/desafio-senior/www/index.html",
+		"/C/Users/Jhonatan/Projetos/bepace/desafio-senior/www/js/especialidade/componentes/especialidade.lista.js",
+		"/C/Users/Jhonatan/Projetos/bepace/desafio-senior/www/templates/especialidades/especialidadeItens.html",
+		"/E/programas/photoshop cc/ChingLiu.Install.Notes.nfo",
+		"/C/Users/Jhonatan/Projetos/blank/platforms/android/src/de/appplant/cordova/plugin/localnotification/LocalNotification.java",
+		"/C/Users/Jhonatan/Projetos/blank/www/js/conta/login.servico.js",
+		"/C/Users/Jhonatan/Projetos/blank/www/js/conta/cadastro.controlador.js",
+		"/C/Users/Jhonatan/Projetos/blank/www/js/suporte/sessao.servico.js",
+		"/C/Users/Jhonatan/Documents/sos-pet agenda/Bug Fiz .txt",
+		"/C/Users/Jhonatan/Documents/sos-pet agenda/Comprimir.bat",
+		"/C/Users/Jhonatan/Projetos/blank/www/js/notificacao/notificacao.servico.js",
+		"/C/Users/Jhonatan/Projetos/blank/www/js/conta/cadastro.servico.js",
+		"/C/Users/Jhonatan/Projetos/blank/.gitignore",
+		"/C/Users/Jhonatan/Projetos/blank/plugins/de.appplant.cordova.plugin.local-notification/src/android/LocalNotification.java",
+		"/C/Users/Jhonatan/Projetos/bepace/sos-animal-mobile/plugins-utilizados.txt",
+		"/C/Users/Jhonatan/Projetos/blank/www/js/notificacao/notificacao.evento.js",
+		"/C/Users/Jhonatan/Projetos/blank/www/js/lembrete/lembrete.servico.js",
+		"/C/Users/Jhonatan/Projetos/bepace/sos-animal-mobile/www/js/conta/cadastro.controlador.js",
+		"/C/Users/Jhonatan/Projetos/bepace/sos-animal-mobile/www/templates/conta.html",
+		"/C/Users/Jhonatan/Projetos/bepace/sos-animal-mobile/config.xml",
+		"/C/Users/Jhonatan/.ionic/ionic.config",
+		"/C/Users/Jhonatan/Projetos/blank/package.json",
+		"/C/Users/Jhonatan/Projetos/blank/config.xml",
+		"/C/Users/Jhonatan/Projetos/blank/platforms/android/build.gradle",
+		"/C/Users/Jhonatan/Projetos/bepace/sos-animal-mobile/www/js/localizacao/estado.servico.js",
+		"/C/Users/Jhonatan/Projetos/bepace/sos-animal-mobile/www/js/aplicacao/autenticacao.interceptador.js",
+		"/C/Users/Jhonatan/Projetos/blank/gulpfile.js",
+		"/C/Users/Jhonatan/Projetos/blank/platforms/platforms.json",
+		"/C/Users/Jhonatan/Projetos/blank/platforms/android/AndroidManifest.xml",
+		"/C/Users/Jhonatan/Projetos/blank/platforms/android/settings.gradle",
+		"/C/Users/Jhonatan/Projetos/blank/platforms/android/project.properties",
+		"/C/Users/Jhonatan/Projetos/blank/ionic.project",
+		"/C/Users/Jhonatan/Projetos/blank/bower.json",
+		"/C/Users/Jhonatan/Projetos/blank/www/js/app.js",
+		"/C/Users/Jhonatan/Projetos/bepace/sos-animal-mobile/platforms/android/assets/www/js/aplicacao/autenticacao.interceptador.js",
+		"/C/Users/Jhonatan/Projetos/bepace/sos-animal-mobile/platforms/android/src/de/appplant/cordova/plugin/localnotification/LocalNotification.java",
+		"/C/Users/Jhonatan/Projetos/bepace/sos-animal-mobile/bower.json",
+		"/C/Users/Jhonatan/Projetos/bepace/sos-animal-mobile/plugins/de.appplant.cordova.plugin.local-notification/src/android/LocalNotification.java",
+		"/C/Users/Jhonatan/Projetos/bepace/sos-animal-mobile/www/js/aplicacao.js",
+		"/C/Users/Jhonatan/Projetos/bepace/sos-animal-mobile/platforms/android/AndroidManifest.xml",
+		"/C/Users/Jhonatan/Projetos/bepace/sos-animal-mobile/www/js/lembrete/lembrete.servico.js",
+		"/C/Users/Jhonatan/Projetos/bepace/desafio-senior/www/templates/menuLateral.html",
+		"/C/Users/Jhonatan/Projetos/bepace/desafio-senior/www/lib/ionic/css/ionic.css",
+		"/C/Users/Jhonatan/Projetos/bepace/desafio-senior/www/templates/menu.html",
+		"/C/Users/Jhonatan/Projetos/bepace/desafio-senior/www/js/especialidade/especialidadeItens.controlador.js",
+		"/C/Users/Jhonatan/Projetos/bepace/desafio-senior/www/js/usuario/usuario.controlador.js",
+		"/C/Users/Jhonatan/Projetos/bepace/desafio-senior/www/js/usuario/usuario.servico.js",
+		"/C/Users/Jhonatan/Projetos/bepace/desafio-senior/www/js/pouchdb/bancoDadosLocal.js",
+		"/C/Users/Jhonatan/Projetos/bepace/desafio-senior/www/js/conquista/conquista.controlador.js",
+		"/C/Users/Jhonatan/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Jhonatan/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Jhonatan/Projetos/bepace/desafio-senior/www/templates/termosUtilizacao.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Chats",
+			"\\+",
+			"progressao",
+			"especialidades",
+			"'",
+			"banco",
+			"bancoPromessas",
+			"alert",
+			"logarErro",
+			"atualizarLocal",
+			"salvar",
+			"salvarSincronia",
+			"termino",
+			"alert",
+			"salvarsin",
+			"notificacao:recebida",
+			"enviarTokenUsuario",
+			"localNotification",
+			"salvar",
+			"EspecialidadesMenuControlador",
+			"local",
+			"v4",
+			"	webView.getView().post(new Runnable() {\n			public void run() {\n				if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.KITKAT) {\n					webView.sendJavascript(js);\n				} else {\n					webView.loadUrl(\"javascript:\" + js);\n				}\n			}\n		});",
+			"sendj",
+			"\\n",
+			"cor.*?\\sp",
+			"cordova",
+			"\\n",
+			"\\d.*",
+			"\\n",
+			"sendjavascr",
+			"alert",
+			"senha é obrigatória",
+			"sendJava",
+			"sendJAva",
+			"dadosDispositivo",
+			"192",
+			"\\n",
+			"sendjava",
+			"\\n",
+			"sendja",
+			"sendjav",
+			"sendajav",
+			"sendJavascript",
+			"webView",
+			"\\n",
+			"img-es",
+			"{adapter: 'websql'}",
+			"defi"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "grin.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"progdad",
+				"www\\js\\pouchdb\\progressao.dados.js"
+			],
+			[
+				"espeobse",
+				"www\\js\\especialidade\\observaveis\\especialidade.observaveis.js"
+			],
+			[
+				"progreser",
+				"www\\js\\progresso\\progressao.servico.js"
+			],
+			[
+				"promesser",
+				"www\\js\\promessa\\promessa.servico.js"
+			],
+			[
+				"appjs",
+				"www\\js\\app.js"
+			],
+			[
+				"index",
+				"www\\index.html"
+			],
+			[
+				"dados",
+				"www\\js\\pouchdb\\promessa.dados.js"
+			],
+			[
+				"splashcontro",
+				"www\\js\\splash.controlador.js"
+			],
+			[
+				"sty",
+				"www\\css\\style.css"
+			],
+			[
+				"menulacon",
+				"www\\js\\menuLateral.controlador.js"
+			],
+			[
+				"linhatemcon",
+				"www\\js\\linhaTempo\\linhaTempo.controlador.js"
+			],
+			[
+				"linha",
+				"www\\templates\\linhaDoTempo.html"
+			],
+			[
+				"sessa",
+				"www\\js\\suporte\\sessao.servico.js"
+			],
+			[
+				"sinrc",
+				"www\\js\\sincronia\\sincronizador.js"
+			],
+			[
+				"cupomser",
+				"www\\js\\cupom\\cupom.servico.js"
+			],
+			[
+				"sincro",
+				"www\\js\\sincronia\\sincronizador.js"
+			],
+			[
+				"cupomsin",
+				"www\\js\\sincronia\\cupom.sincronia.js"
+			],
+			[
+				"loginser",
+				"www\\js\\conta\\login.servico.js"
+			],
+			[
+				"aplico",
+				"www\\js\\aplicacao\\aplicacao.controlador.js"
+			],
+			[
+				"ini",
+				"www\\js\\aplicacao\\inicializador.configuracao.js"
+			],
+			[
+				"cadasser",
+				"www\\js\\conta\\cadastro.servico.js"
+			],
+			[
+				"notiser",
+				"www\\js\\notificacao\\notificacao.servico.js"
+			],
+			[
+				"notieve",
+				"www\\js\\notificacao\\notificacao.evento.js"
+			],
+			[
+				"cupomsincr",
+				"www\\js\\sincronia\\cupom.sincronia.js"
+			],
+			[
+				"cupons",
+				"www\\js\\cupom\\cupons.controlador.js"
+			],
+			[
+				"cupomcontro",
+				"www\\js\\cupom\\cupom.controlador.js"
+			],
+			[
+				"sobre",
+				"www\\templates\\sobre.html"
+			],
+			[
+				"pluginxm",
+				"engine\\cordova-crosswalk-engine-c0.7.1\\plugin.xml"
+			],
+			[
+				"packa",
+				"package.json"
+			],
+			[
+				"att",
+				"platforms\\android\\com.phonegap.plugins.facebookconnect\\desafiosenior-FacebookLib\\res\\values\\attrs.xml"
+			],
+			[
+				"attr",
+				"engine\\cordova-crosswalk-engine-c0.7.1\\libs\\xwalk_core_library\\res\\values\\attrs.xml"
+			],
+			[
+				"rota",
+				"www\\js\\rotas.js"
+			],
+			[
+				"rotas",
+				"www\\js\\rotas.js"
+			],
+			[
+				"inde",
+				"www\\index.html"
+			],
+			[
+				"esimagens",
+				"www\\js\\especialidade\\especialidade.imagens.js"
+			],
+			[
+				"esiten",
+				"www\\templates\\especialidades\\especialidadeItens.html"
+			],
+			[
+				"espelisjs",
+				"www\\js\\especialidade\\componentes\\especialidade.lista.js"
+			],
+			[
+				"menu",
+				"www\\templates\\especialidades\\menu.html"
+			],
+			[
+				"config",
+				"config.xml"
+			],
+			[
+				"localnoti",
+				"platforms\\android\\src\\de\\appplant\\cordova\\plugin\\localnotification\\LocalNotification.java"
+			],
+			[
+				"cadacon",
+				"www\\js\\conta\\cadastro.controlador.js"
+			],
+			[
+				"localnot.java",
+				"platforms\\android\\src\\de\\appplant\\cordova\\plugin\\localnotification\\LocalNotification.java"
+			],
+			[
+				"notie",
+				"www\\js\\notificacao\\notificacao.evento.js"
+			],
+			[
+				"notifiser",
+				"www\\js\\notificacao\\notificacao.servico.js"
+			],
+			[
+				"lembreser",
+				"www\\js\\lembrete\\lembrete.servico.js"
+			],
+			[
+				"cadascon",
+				"www\\js\\conta\\cadastro.controlador.js"
+			],
+			[
+				"conta",
+				"www\\templates\\conta.html"
+			],
+			[
+				"cadas",
+				"www\\js\\conta\\cadastro.controlador.js"
+			],
+			[
+				"aplicontr",
+				"www\\js\\aplicacao\\aplicacao.controlador.js"
+			],
+			[
+				"interce",
+				"sos-animal-mobile\\platforms\\android\\assets\\www\\js\\aplicacao\\autenticacao.interceptador.js"
+			],
+			[
+				"esta",
+				"sos-animal-mobile\\www\\js\\localizacao\\estado.servico.js"
+			],
+			[
+				"cada",
+				"sos-animal-mobile\\www\\js\\conta\\cadastro.controlador.js"
+			],
+			[
+				"localno",
+				"platforms\\android\\src\\de\\appplant\\cordova\\plugin\\localnotification\\LocalNotification.java"
+			],
+			[
+				"bower",
+				"bower.json"
+			],
+			[
+				"autens",
+				"www\\js\\aplicacao\\autenticacao.interceptador.js"
+			],
+			[
+				"localnoti.java",
+				"platforms\\android\\src\\de\\appplant\\cordova\\plugin\\localnotification\\LocalNotification.java"
+			],
+			[
+				"android",
+				"platforms\\android\\AndroidManifest.xml"
+			],
+			[
+				"inter",
+				"www\\js\\aplicacao\\autenticacao.interceptador.js"
+			],
+			[
+				"inici",
+				"www\\js\\aplicacao\\inicializador.configuracao.js"
+			],
+			[
+				"apli",
+				"www\\js\\aplicacao.js"
+			],
+			[
+				"sessai",
+				"www\\js\\suporte\\sessao.servico.js"
+			],
+			[
+				"intercep",
+				"www\\js\\aplicacao\\autenticacao.interceptador.js"
+			],
+			[
+				"ioni",
+				"www\\lib\\ionic\\css\\ionic.css"
+			],
+			[
+				"menula",
+				"www\\templates\\menuLateral.html"
+			],
+			[
+				"espeit",
+				"www\\templates\\especialidades\\especialidadeItens.html"
+			],
+			[
+				"ioniccss",
+				"www\\lib\\ionic\\css\\ionic.css"
+			],
+			[
+				"especicontro",
+				"www\\js\\especialidade\\especialidadeItens.controlador.js"
+			],
+			[
+				"men",
+				"www\\templates\\menu.html"
+			],
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				"conqucon",
+				"www\\js\\conquista\\conquista.controlador.js"
+			],
+			[
+				"banco",
+				"www\\js\\pouchdb\\bancoDadosLocal.js"
+			],
+			[
+				"usuariocontrolador",
+				"www\\js\\usuario\\usuario.controlador.js"
+			],
+			[
+				"ter",
+				"www\\templates\\termosUtilizacao.html"
+			],
+			[
+				"ususer",
+				"www\\js\\usuario\\usuario.servico.js"
+			],
+			[
+				"usu",
+				"www\\js\\usuario\\usuario.controlador.js"
+			],
+			[
+				"co",
+				"config.xml"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\Jhonatan\\Projetos\\bepace\\sub-desafio-senior.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 349.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
