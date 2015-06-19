@@ -6,10 +6,9 @@ export function ChatsCtrl($scope, Chats) {
   // To listen for when this page is active (for example, to refresh data),
   // listen for the $ionicView.enter event:
   //
-    $scope.$on('$ionicView.enter', e => {}); 
-  
+  $scope.$on('$ionicView.enter', e => {}); 
+
   $scope.chats = Chats.all();
-  $scope.remove = function(chat) {
-     Chats.remove(chat);
-  }
+  $scope.remove = chat => Chats.remove(chat)
+
 }

@@ -74,7 +74,7 @@ define("ChatsCtrl", ["exports"], function (exports) {
 
     $scope.chats = Chats.all();
     $scope.remove = function (chat) {
-      Chats.remove(chat);
+      return Chats.remove(chat);
     };
   }
 });
