@@ -1,6 +1,6 @@
-import {ChatsCtrl} from "ChatsCtrl";
-import {Chats} from "Chats";
-import {Rotas} from "Rotas";
+import {ChatsCtrl} from "./ChatsCtrl";
+import {Chats} from "./Chats";
+import {Rotas} from "./Rotas";
 
 angular.module('grin', ['ionic'])
   .run($ionicPlatform => {

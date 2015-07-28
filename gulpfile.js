@@ -6,26 +6,25 @@ var sass = require('gulp-sass');
 var minifyCss = require('gulp-minify-css');
 var rename = require('gulp-rename');
 var sh = require('shelljs');
-var babel = require('gulp-babel');
-var sourcemaps = require('gulp-sourcemaps');
+var babelify = require('babelify');
+var browserify = require('browserify');
+var source = require('vinyl-source-stream');
 
 var paths = {
   sass: ['./scss/**/*.scss'],
-  scripts: ['./jssrc/**/{!(app.js), *.js}', './jssrc/app.js']
+  scripts: ['./jssrc/**/*.js']
 };
 
 gulp.task('default', ['sass', 'scripts']);
 
 gulp.task('scripts', function () {
-    return gulp.src(paths.scripts)
-        .pipe(sourcemaps.init())
-        .pipe(babel({
-            modules: 'amd',
-            moduleIds: true
-        }))
-        .pipe(concat('all.js'))
-        .pipe(sourcemaps.write('.'))
-        .pipe(gulp.dest('./www/js'));
+    browserify({
+    entries: './jssrc/app.js',
+    debug: true
+  }).transform(babelify)
+    .bundle()
+    .pipe(source('build.js'))
+    .pipe(gulp.dest('./www/js'));
 });
 
 gulp.task('sass', function(done) {
