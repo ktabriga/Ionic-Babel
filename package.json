@@ -1,7 +1,7 @@
 {
-  "name": "grin",
+  "name": "ionic-es6",
   "version": "1.0.0",
-  "description": "grin: An Ionic project",
+  "description": "ionic-es6: An Ionic project",
   "dependencies": {
     "gulp": "^3.5.6",
     "gulp-concat": "^2.2.0",
